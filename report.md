@@ -15,7 +15,8 @@
 
 
 В процессе тестирования использовались следующие артефакты:
-1. Постановка задачи
+1. Постановка задачи:
+* [Задача №2 - Precision](https://github.com/netology-code/javaqa-homeworks/tree/master/programming#%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0-2---precision)
 
 
 
@@ -26,4 +27,5 @@
 
 Тестирование производилось в следующем окружении:
 * Windows 10, 64-разрядная ОС, сборка 19041.1110
-* openjdk version "11.0.11" 2021-04-20
+* OpenJDK Runtime Environment AdoptOpenJDK-11.0.11+9 (build 11.0.11+9)
+
